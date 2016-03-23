@@ -1,12 +1,12 @@
 # MagicRealm-v1
-Magic Realm is a fantasy adventure board game since 1979. This project is the desktop version of real game.
+Magic Realm is a fantasy adventure board game. This project is the desktop version of real game.
 
 
 Developed and Designed by:
 
-Adeel Maknojia
-Atif Babary
-Areej Bdira
+Adeel Maknojia, 
+Atif Babary, 
+Areej Bdira, 
 Tahniat Naseem
 
 Disclaimer: The work is prepared only for the course (COMP 3004) Object-Oriented Software Engineering, Carleton University.
